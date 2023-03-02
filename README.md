@@ -1,0 +1,1 @@
+Znakomstvo s git
